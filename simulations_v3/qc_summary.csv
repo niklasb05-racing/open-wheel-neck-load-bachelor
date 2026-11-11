@@ -1,0 +1,13 @@
+trial,case,g,peak_force_N,peak_gndroll_moment_Nm,load_reached_ID,max_reserve,reserves_ok,n_muscles_saturated,n_muscles,peak_muscle_force_N,peak_muscle,force_rel_to_1g
+lateral_1g,lateral,1,58.8,32.23,True,0.006,True,0,72,70.9,trap_acr,1.0
+lateral_2g,lateral,2,117.7,64.47,True,0.013,True,1,72,143.3,trap_acr,2.02
+lateral_3g,lateral,3,176.5,96.7,True,0.035,True,7,72,444.7,trap_acr,6.27
+lateral_4g,lateral,4,235.4,128.94,True,2.13,True,28,72,525.7,trap_acr,7.41
+lateral_5g,lateral,5,294.2,161.17,True,6.065,True,31,72,525.7,trap_acr,7.41
+lateral_6g,lateral,6,353.0,193.41,True,11.14,True,33,72,525.7,trap_acr,7.41
+combined_1g,combined,1,0.0,0.0,False,0.0,True,0,72,6.5,trap_acr,1.0
+combined_2g,combined,2,101.9,55.83,True,0.011,True,0,72,122.9,trap_acr,18.91
+combined_3g,combined,3,166.4,91.17,True,0.029,True,6,72,368.9,trap_acr,56.75
+combined_4g,combined,4,227.9,124.85,True,1.552,True,25,72,525.7,trap_acr,80.88
+combined_5g,combined,5,288.3,157.92,True,5.707,True,31,72,525.7,trap_acr,80.88
+combined_6g,combined,6,348.1,190.7,True,10.714,True,33,72,525.7,trap_acr,80.88

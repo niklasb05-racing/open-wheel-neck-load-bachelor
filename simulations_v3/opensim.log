@@ -1,0 +1,757 @@
+[2026-08-24 17:44:29.983] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:44:30.010] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:44:30.012] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:44:30.013] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:44:30.013] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:44:30.044] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:44:30.058] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:44:30.059] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:44:30.105] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:44:30.120] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:44:30.121] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:44:30.122] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:44:30.122] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:44:37.337] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:44:37.350] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:44:37.351] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:44:37.351] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:44:37.351] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:44:37.351] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:44:37.351] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:44:37.351] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:44:37.352] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:44:37.384] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:44:37.396] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:44:37.397] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:44:37.397] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:44:37.397] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:44:37.397] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:44:37.397] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:44:37.397] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:44:37.398] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:44:37.444] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:44:37.457] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:44:37.458] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:45:26.626] [info] Updating Model file from 40500 to latest format...
+[2026-08-24 17:45:26.641] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:45:26.642] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:45:26.705] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3\HYOID_1.2_head6kg.osim
+[2026-08-24 17:45:26.705] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-24 17:45:26.705] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-24 17:45:26.705] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-24 17:45:26.705] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-24 17:45:26.706] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-24 17:45:44.931] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:45:51.373] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:45:57.542] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:03.878] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:10.224] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:16.713] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:24.088] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:30.864] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:37.573] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:44.106] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:50.723] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-24 17:46:57.381] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:19:51.220] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:19:57.347] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:03.607] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:09.685] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:15.774] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:21.912] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:28.774] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:35.066] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:41.127] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:47.245] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:20:53.380] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:21:00.120] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:13.613] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:19.851] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:26.111] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:33.445] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:40.154] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:47.713] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:31:54.747] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:32:01.178] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:32:08.195] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:32:15.222] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:32:22.509] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 09:32:29.353] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:26:14.621] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:26:32.005] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:26:47.472] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:27:20.916] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:27:35.783] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:27:55.249] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            an
