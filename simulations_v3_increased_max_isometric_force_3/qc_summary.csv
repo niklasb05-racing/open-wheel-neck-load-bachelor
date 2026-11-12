@@ -1,0 +1,7 @@
+trial,case,g,peak_force_N,peak_gndroll_moment_Nm,load_reached_ID,max_reserve,reserves_ok,n_muscles_saturated,n_muscles,peak_muscle_force_N,peak_muscle,force_rel_to_1g
+lateral_1g,lateral,1,58.8,32.23,True,0.001,True,0,72,74.7,trap_acr,1.0
+lateral_2g,lateral,2,117.7,64.47,True,0.001,True,0,72,145.6,trap_acr,1.95
+lateral_3g,lateral,3,176.5,96.7,True,0.002,True,0,72,216.7,trap_acr,2.9
+lateral_4g,lateral,4,235.4,128.94,True,0.003,True,0,72,287.5,trap_acr,3.85
+lateral_5g,lateral,5,294.2,161.17,True,0.004,True,0,72,359.2,trap_acr,4.81
+lateral_6g,lateral,6,353.0,193.41,True,0.004,True,0,72,430.7,trap_acr,5.77

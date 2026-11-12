@@ -1,0 +1,2593 @@
+[2026-08-25 11:35:07.601] [info] Updating Model file from 40500 to latest format...
+[2026-08-25 11:35:07.628] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-08-25 11:35:07.630] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-25 11:35:07.630] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-25 11:35:07.631] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-25 11:35:07.631] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-25 11:35:07.631] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-25 11:35:07.631] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-25 11:35:07.631] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-25 11:35:07.632] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-25 11:35:07.632] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-25 11:35:07.632] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-25 11:35:07.633] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-25 11:35:07.633] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-25 11:35:07.633] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-25 11:35:07.633] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-25 11:35:07.634] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-25 11:35:07.759] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-08-25 11:35:07.760] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-25 11:35:07.760] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-25 11:35:07.760] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-25 11:35:07.761] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-25 11:35:07.856] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-25 11:35:07.857] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-25 11:35:08.025] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-08-25 11:35:08.026] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'skull.vtp'.
+[2026-08-25 11:35:08.027] [warning] Couldn't find file 'jaw.vtp'.
+[2026-08-25 11:35:08.499] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:35:24.447] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:35:38.286] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:35:55.435] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:36:12.588] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:36:30.549] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:36:47.726] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:37:05.696] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:37:23.795] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:37:42.292] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-08-25 11:37:56.878] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators:[2026-09-15 12:45:47.082] [info] Updating Model file from 40500 to latest format...
+[2026-09-15 12:45:47.106] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-15 12:45:47.108] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-15 12:45:47.108] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-15 12:45:47.108] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-15 12:45:47.108] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-15 12:45:47.109] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-15 12:45:47.109] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-15 12:45:47.109] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-15 12:45:47.109] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-15 12:45:47.109] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-15 12:45:47.110] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-15 12:45:47.110] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-15 12:45:47.110] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-15 12:45:47.110] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-15 12:45:47.110] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-15 12:45:47.111] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-15 12:45:47.226] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-15 12:45:47.226] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-15 12:45:47.227] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-15 12:45:47.227] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-15 12:45:47.227] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-15 12:45:47.227] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-15 12:45:47.227] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-15 12:45:47.227] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-15 12:45:47.228] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-15 12:45:47.228] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-15 12:45:47.228] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-15 12:45:47.228] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-15 12:45:47.229] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-15 12:45:47.229] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-15 12:45:47.229] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-15 12:45:47.229] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-15 12:46:58.726] [info] Updating Model file from 40500 to latest format...
+[2026-09-15 12:46:58.745] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-15 12:46:58.746] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-15 12:46:58.746] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-15 12:46:58.747] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-15 12:46:58.834] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-15 12:46:58.835] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-15 12:46:58.931] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-15 12:46:58.932] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-15 12:46:58.932] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-15 12:46:58.932] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-15 12:46:58.932] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-15 12:46:58.932] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-15 12:46:58.932] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-15 12:46:58.933] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-15 12:47:03.762] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:11.246] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:19.173] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:26.504] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:33.860] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:41.290] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:48.844] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:47:56.073] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:48:03.364] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:48:10.622] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators: 74
+             muscles: 72
+            analyses: 0
+              probes: 0
+              bodies: 15
+              joints: 15
+         constraints: 18
+             markers: 7
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+[2026-09-15 12:48:18.375] [cout] [off] 
+               MODEL: HYOID_Scaled
+         coordinates: 30
+              forces: 82
+           actuators:[2026-09-30 09:49:02.213] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 09:49:02.231] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:49:02.232] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:49:02.233] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:49:02.233] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:49:02.233] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:49:02.233] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:49:02.233] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:49:02.323] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:49:02.324] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:49:02.427] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:49:02.428] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:49:02.428] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:49:02.428] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:49:02.428] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:49:02.428] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:49:02.429] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:57:10.015] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 09:57:10.030] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:57:10.030] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:57:10.031] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:57:10.109] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:57:10.110] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:57:10.111] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:57:10.206] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:57:10.207] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:57:10.208] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:57:10.208] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:57:10.208] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:57:10.208] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:57:10.208] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:57:26.251] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:57:26.252] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 09:57:31.536] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 09:57:31.537] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 09:57:31.538] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:04.474] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:04.490] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:04.491] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:04.492] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:04.492] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:04.492] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:04.492] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:04.576] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:04.577] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:04.676] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:04.676] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:04.676] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:04.677] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:05.228] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:05.229] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.176] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:19.191] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:19.192] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.192] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.192] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.192] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.192] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.192] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.193] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.257] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:19.273] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.274] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.344] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:19.358] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:19.359] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.359] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.359] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.359] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.359] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.360] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.438] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.439] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.480] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:19.481] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.481] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.481] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.481] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.482] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.608] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.609] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.610] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.766] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.767] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:19.907] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:19.908] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:19.909] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:19.909] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.018] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.019] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.020] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.140] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.141] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.272] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.273] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.379] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.380] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.506] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:20.506] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.507] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.652] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.653] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.654] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.654] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.701] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:20.702] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.703] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.811] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.812] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:20.920] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:20.921] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:20.922] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.049] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.050] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.051] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.051] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.155] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.156] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.268] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.269] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.269] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.269] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.269] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.269] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.269] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.270] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.376] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.377] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.378] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.378] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.378] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.494] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.495] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.496] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.496] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.496] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.496] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.626] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.626] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.627] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.832] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.833] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:21.982] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:21.983] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:21.984] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:21.984] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:21.984] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:21.984] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:21.984] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.114] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.115] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.244] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.245] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.246] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.246] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.246] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.246] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.246] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.375] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.376] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.377] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.505] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.506] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.629] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.630] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.753] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.754] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.755] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.755] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.755] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.755] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:22.889] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:22.890] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.011] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.012] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.013] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.013] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.134] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.135] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.135] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.135] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.136] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.137] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.137] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.137] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.288] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.289] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.425] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.426] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.553] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.554] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.684] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.685] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.797] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.798] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.799] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:23.953] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:23.954] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:23.955] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.083] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.084] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.085] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.201] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.202] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.322] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:24.322] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.323] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.440] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.441] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.547] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:24.547] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.547] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.547] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.547] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.547] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.547] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.548] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.648] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:24.649] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.649] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.649] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.649] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.649] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.650] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.752] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:24.752] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.752] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.752] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.752] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.753] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.847] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.848] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:24.997] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:24.998] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:24.999] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:24.999] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.128] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.129] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.130] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.258] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.259] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.260] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.260] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.260] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.260] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.260] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.260] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.383] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.384] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.385] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.385] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.493] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.495] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.606] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.606] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.606] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.606] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.606] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.606] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.607] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.718] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.719] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.831] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.832] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:25.939] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:25.940] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.054] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.055] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.170] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.171] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.281] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.282] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.387] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.388] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.492] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.492] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.493] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.603] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.604] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.605] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.737] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.738] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.849] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.850] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:26.958] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:26.959] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:26.960] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:26.960] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:26.960] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.057] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.058] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.059] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.159] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.160] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.161] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.161] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.161] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.161] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.161] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.161] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.268] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.269] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.384] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.384] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.385] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.487] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.487] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.487] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.487] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.488] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.589] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.590] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.695] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.696] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.805] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.806] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:27.915] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:27.916] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.010] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.011] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.102] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.102] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.102] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.103] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.190] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.191] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.191] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.191] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.191] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.191] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.192] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.298] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.299] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.300] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.409] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.410] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.410] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.410] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.411] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.509] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.510] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.511] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.511] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.511] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.511] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.511] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.511] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.637] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.638] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.749] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.749] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.749] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.749] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.749] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.749] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.750] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.859] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.860] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.861] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.861] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.861] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.861] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.861] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.861] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:28.970] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:28.971] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:28.972] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:28.972] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:28.972] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:28.972] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.078] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.079] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.185] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.186] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.296] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.297] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.398] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.399] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.500] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.500] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.501] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.605] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.605] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.606] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.705] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.706] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.805] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.806] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:29.903] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:29.904] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.004] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.005] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.116] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.117] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.225] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.226] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.339] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.340] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.341] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.444] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.445] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.446] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.543] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.544] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.642] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.642] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.642] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.642] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.642] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.643] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.741] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.742] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.743] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.743] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.743] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.743] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.743] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.846] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.846] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.847] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:30.949] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:30.950] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:30.950] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:30.950] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:30.950] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:30.950] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:30.950] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:30.951] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:32.117] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:32.129] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:32.130] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:32.131] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:32.202] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:32.203] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:32.285] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:32.286] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:32.286] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:32.286] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:32.287] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:32.728] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\HYOID_1.2_head6kg_fmax_x3.osim
+[2026-09-30 10:07:32.728] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:32.728] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:32.728] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:32.728] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:32.729] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:42.520] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:42.536] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:42.537] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:42.616] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:42.633] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:42.634] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:42.634] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:42.634] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:42.634] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:42.634] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:42.635] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:42.695] [info] Updating Model file from 40500 to latest format...
+[2026-09-30 10:07:42.709] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:42.710] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:42.780] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:42.781] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:42.825] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:42.826] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:42.826] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:42.826] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:42.826] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:42.826] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:42.827] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:42.921] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:42.921] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:42.922] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.029] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x1.osim
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.030] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.031] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.163] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.164] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.247] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.247] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.248] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.248] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.248] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.248] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.248] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.248] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.357] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x2.osim
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.358] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.479] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.480] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.555] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.555] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.556] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.556] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.556] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.556] [warning] Couldn't find file 'jaw.vtp'.
+[2026-09-30 10:07:43.644] [info] Loaded model HYOID_Scaled from file C:\Users\Basilio\ucloud\BSc_theses\2025W\Berger Niklas\simulations_v3_increased_max_isometric_force_3\model_variants\HYOID_head6kg_fmax_x3.osim
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'tlspine.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'rscapula.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'rclavicle.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'lscapula.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'lclavicle.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'ribcage.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'rotatedcerv7.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'cerv6.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'cerv5.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'cerv4.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'cerv3.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'cerv2.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'cerv1.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'skull.vtp'.
+[2026-09-30 10:07:43.645] [warning] Couldn't find file 'jaw.vtp'.
